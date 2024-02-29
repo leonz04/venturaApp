@@ -1,0 +1,118 @@
+.container__hotel__info{
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    flex-wrap: wrap;
+    position: relative;
+    
+}
+
+.header__hotel__page{
+    grid-column: span 2;
+    text-align: center;
+    margin: 1em 0 1.5em;
+    
+}
+
+.header__hotel__title{
+    font-weight: 700;
+    font-size: 1.3rem;
+    margin-bottom: 0.3em;
+
+}
+
+.info__city__name{
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 0.3em;
+}
+
+.info__location{
+    font-size: 0.95rem;
+    display: flex;
+    gap: 0.2em;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
+.info__description{
+    text-align: justify;
+    font-weight: 300;
+    padding: 1em 0 1.5em;
+    line-height: 1.6;
+    color: black;
+    font-size: 1.1rem;
+}
+.reservation__map{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+}
+
+.container__img__map{
+    display: flex;
+    padding: 1.5em;
+    align-items: flex-start;
+    
+    
+    
+  
+}
+
+.info__description__hotel{
+    padding: 1.5em;
+    display: grid;
+}
+
+.hotel__map{
+    margin: auto auto;
+    border-radius: 50%;
+    overflow: hidden;
+    align-self: flex-start;
+}
+
+.slider__column{
+    min-width: 45%;
+}
+
+
+
+@media (min-width: 300px) and (max-width:800px){
+
+    .container__hotel__info{
+        padding: 0;
+    }
+
+    .general__info{
+        padding: 1em 1em 1.5em;
+
+    }
+
+    .info__description__hotel{
+        padding: 0;
+    }
+    .reservation__map{
+        padding: 1em 1em 1.5em;
+
+
+    }
+
+
+    .container__img__map{
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+    }
+    .hotel__map{
+        width: 150px;
+        height: 150px;
+        margin-left: 10px;
+    
+    }
+
+
+
+}
+
+
+

@@ -1,0 +1,25 @@
+[
+    {
+        "id":1,
+        "name":"Hotel MAGUIPI",
+        "lat":3.8369578446550525, 
+        "lon":-77.26117015352581,
+        "address":"Costa Pacífica",
+        "description":"Nos encontramos ubicados en la bellísima costa pacífica vallecaucana, en el sector de punta San pedro a 30 minutos en lancha, partiendo del muelle turístico de buenaventura, en la ruta hacia Juanchaco y ladrilleros, pasando por el corregimiento de la bocana y pianguita.Nuestra ubicación nos permite proporcionar a todos nuestros visitantes un ambiente diferente, donde podrá tener un contacto directo con la naturaleza.Nos permite proporcionar a todos nuestros visitantes un ambiente diferente donde podrá tener un contacto directo con la naturaleza El transporte marítimo lo prestan las diferentes empresas marítimas autorizadas por la capitanía de puertos son embarcaciones seguras y confortables, con todas las medidas preventivas reglamentarias.",
+        "images":["https://hotelesdelpacifico.com/wp-content/uploads/2016/02/maguipi-pagina26.jpg"],
+        "price":200,
+        "city":"Buenaventura"
+        
+    },
+    {
+        "id":2,
+        "name":"Hotel La Bocana",
+        "lat":3.8335855545677413, 
+        "lon":-77.18503665397512,
+        "address":"Costa Pacífica",
+        "description":" ubicado en las playas de Bazan la bocana a tan solo 15 minutos en un espectacular recorrido en lancha partiendo desde el muelle turístico de la ciudad de Buenaventura, es un lugar ideal para el descanso y el sano esparcimiento, para compartir con grupos familiares, amigos y grupos empresarial.Es un sitio organizado para turistas locales, nacionales e internacionales que vienen a quedarse un tiempo limitado en nuestras playas turísticas. Se ha creado un amplio y variado plan de actividades para satisfacer a plenitud las necesidades de nuestros clientes acompañado de un equipo humano de trabajo capacitado y con la mejor disposición a atender sus requerimientos con profesionalismo, calidad y calidez, característicos de nuestra región.",
+        "images":["https://hotelesdelpacifico.com/wp-content/uploads/2016/09/hotel-bocana111.jpg"],
+        "price":500
+
+    }
+]
