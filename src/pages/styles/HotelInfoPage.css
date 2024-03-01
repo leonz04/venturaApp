@@ -37,11 +37,13 @@
 
 .info__description{
     text-align: justify;
-    font-weight: 300;
+    font-weight: 400;
     padding: 1em 0 1.5em;
     line-height: 1.6;
     color: black;
     font-size: 1.1rem;
+    background-color: rgb(240, 248, 255);
+    padding: 1em;
 }
 .reservation__map{
     display: grid;

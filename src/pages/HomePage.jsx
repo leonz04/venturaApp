@@ -90,14 +90,7 @@ const HomePage = () => {
       setFromTo={setFromTo}
       
  />
-      <FilterCities 
-      setCitySelected={setCitySelected}
-       setCountryFil={ setCountryFil}
-       countryId={countryId}
-       setCountryId={setCountryId}
-       setnameInput={setnameInput}
-       setFromTo={setFromTo}
-      />
+   
       </section>
     <div className='homepage__hotels__container'>
       <FilterName
