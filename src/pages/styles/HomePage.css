@@ -6,12 +6,13 @@
 }
 
 .section__filters {
-    padding: 2em 3em;
+    padding: 2em 1em;
     display: flex;
     flex-direction: column;
     position: fixed;
     left: 0;
     width: 15%;
+    background-color: #ffffffb3;
 }
 
 .homepage__hotels__container{

@@ -1,5 +1,6 @@
 .app{
     margin-top: 100px;
+    background-image: url("/wallpaper.png");
 }
 
 @media (min-width: 300px) and (max-width:800px){

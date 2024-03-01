@@ -54,16 +54,11 @@ const FilterCountry = ({setCountryFil,setCountryId,setnameInput,setFromTo}) => {
 
   return (
     <section className='filter__country__container'>
-        <h3 className='filter__country__title' >Countries</h3>
+        <input className="pet" type="checkbox"/> 
+        <h3 className='filter__country__title pet' >Pet friendly</h3>
+
             <ul className='filter__country__list'>
-                <li className='filter__country__item'  onClick={()=>handleFilteredCountries('all countries')}> All Countries</li>
-                {
-                    countries.map(country => (
-                        <li className='filter__country__item' onClick={()=>handleFilteredCountries(country)} key={country.countryId}>
-                            {country.name}
-                        </li>
-                    ))
-                }
+                
             </ul>
     </section>
   )

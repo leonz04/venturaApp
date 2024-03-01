@@ -28,7 +28,7 @@ const HeaderShared = ({}) => {
 
   return (
     <header className='header'>
-      <h1 className='header__logo'><Link to="/">ReservationsApp</Link></h1>
+      <h1 className='header__logo'><Link to="/">VenturApp</Link></h1>
       <div className='mobile__menu'>
         <i onClick={handleMenuMobile} className='bx bx-menu' ></i>
       <nav className='header__nav'>

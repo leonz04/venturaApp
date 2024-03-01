@@ -36,3 +36,7 @@ label{
 .dissapear{
     display: none;
 }
+
+.pet{
+    display: inline;
+}

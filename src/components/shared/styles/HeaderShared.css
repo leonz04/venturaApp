@@ -17,6 +17,11 @@
     font-size: 1.8rem;
 }
 
+.header__logo a{
+text-decoration: none;
+color:#fa4006;
+}
+
 .header__nav__list {
     width: 100%;
     display: flex;

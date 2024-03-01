@@ -19,7 +19,89 @@
         "address":"Costa Pacífica",
         "description":" ubicado en las playas de Bazan la bocana a tan solo 15 minutos en un espectacular recorrido en lancha partiendo desde el muelle turístico de la ciudad de Buenaventura, es un lugar ideal para el descanso y el sano esparcimiento, para compartir con grupos familiares, amigos y grupos empresarial.Es un sitio organizado para turistas locales, nacionales e internacionales que vienen a quedarse un tiempo limitado en nuestras playas turísticas. Se ha creado un amplio y variado plan de actividades para satisfacer a plenitud las necesidades de nuestros clientes acompañado de un equipo humano de trabajo capacitado y con la mejor disposición a atender sus requerimientos con profesionalismo, calidad y calidez, característicos de nuestra región.",
         "images":["https://hotelesdelpacifico.com/wp-content/uploads/2016/09/hotel-bocana111.jpg"],
-        "price":500
+        "price":500,
+        "city":"Buenaventura"
 
+
+    },
+    {
+        "id":3,
+        "name":"Hotel Alfa",
+        "lat":3.8335855545677413, 
+        "lon":-77.18503665397512,
+        "address":"Costa Pacífica",
+        "description":"Está ubicado a 100 metros de la playa con una vista espectacular, desde el restaurante podrás relajarte mirando a el mar. Contamos con habitaciones cómodas de parejas cuádruples sextuples y de 8 personas con pisos de cerámica . contamos con habitaciones confortables todas cuentan con televisor baño privado y ventilador y aire acondicionado la comida es excelente.y lo mejor un excelente servicio por parte de sus empleados. En el restaurante ademas de los platos incluidos en el plan ,también se pueden preparar otros platos típicos de la región con costos adicionales que podrá pagar en efectivo por la diferencia.",
+        "images":["https://hotelesdelpacifico.com/wp-content/uploads/2016/02/HOTEL-ALFA-CATALINA6.jpg"],
+        "price":500,
+        "city":"Buenaventura"
+
+    },
+    {
+        "id":4,
+        "name":"Hotel Palma real",
+        "lat":3.8335855545677413, 
+        "lon":-77.18503665397512,
+        "address":"Costa Pacífica",
+        "description":"Está ubicado a 100 metros de la playa con una vista espectacular, desde el restaurante podrás relajarte mirando a el mar. Contamos con habitaciones cómodas de parejas cuádruples sextuples y de 8 personas con pisos de cerámica . contamos con habitaciones confortables todas cuentan con televisor baño privado y ventilador y aire acondicionado la comida es excelente.y lo mejor un excelente servicio por parte de sus empleados. En el restaurante ademas de los platos incluidos en el plan ,también se pueden preparar otros platos típicos de la región con costos adicionales que podrá pagar en efectivo por la diferencia.",
+        "images":["https://hotelesdelpacifico.com/wp-content/uploads/2016/02/HOTEL-ALFA-CATALINA6.jpg"],
+        "price":500,
+        "city":"Buenaventura"
+
+    },
+    {
+        "id":5,
+        "name":"Hotel Pelicano",
+        "lat":3.8335855545677413, 
+        "lon":-77.18503665397512,
+        "address":"Costa Pacífica",
+        "description":"Está ubicado a 100 metros de la playa con una vista espectacular, desde el restaurante podrás relajarte mirando a el mar. Contamos con habitaciones cómodas de parejas cuádruples sextuples y de 8 personas con pisos de cerámica . contamos con habitaciones confortables todas cuentan con televisor baño privado y ventilador y aire acondicionado la comida es excelente.y lo mejor un excelente servicio por parte de sus empleados. En el restaurante ademas de los platos incluidos en el plan ,también se pueden preparar otros platos típicos de la región con costos adicionales que podrá pagar en efectivo por la diferencia.",
+        "images":["https://hotelesdelpacifico.com/wp-content/uploads/2016/02/HOTEL-ALFA-CATALINA6.jpg"],
+        "price":500,
+        "city":"Buenaventura"
+
+    },
+    {
+        "id":6,
+        "name":"Hotel Victoria",
+        "lat":3.8335855545677413, 
+        "lon":-77.18503665397512,
+        "address":"Costa Pacífica",
+        "description":"Está ubicado a 100 metros de la playa con una vista espectacular, desde el restaurante podrás relajarte mirando a el mar. Contamos con habitaciones cómodas de parejas cuádruples sextuples y de 8 personas con pisos de cerámica . contamos con habitaciones confortables todas cuentan con televisor baño privado y ventilador y aire acondicionado la comida es excelente.y lo mejor un excelente servicio por parte de sus empleados. En el restaurante ademas de los platos incluidos en el plan ,también se pueden preparar otros platos típicos de la región con costos adicionales que podrá pagar en efectivo por la diferencia.",
+        "images":["https://hotelesdelpacifico.com/wp-content/uploads/2016/02/HOTEL-ALFA-CATALINA6.jpg"],
+        "price":500,
+        "city":"Buenaventura"
+    },
+    {
+        "id":7,
+        "name":"Hotel Reserva aguamarina",
+        "lat":3.8335855545677413, 
+        "lon":-77.18503665397512,
+        "address":"Costa Pacífica",
+        "description":"Está ubicado a 100 metros de la playa con una vista espectacular, desde el restaurante podrás relajarte mirando a el mar. Contamos con habitaciones cómodas de parejas cuádruples sextuples y de 8 personas con pisos de cerámica . contamos con habitaciones confortables todas cuentan con televisor baño privado y ventilador y aire acondicionado la comida es excelente.y lo mejor un excelente servicio por parte de sus empleados. En el restaurante ademas de los platos incluidos en el plan ,también se pueden preparar otros platos típicos de la región con costos adicionales que podrá pagar en efectivo por la diferencia.",
+        "images":["https://hotelesdelpacifico.com/wp-content/uploads/2016/02/HOTEL-ALFA-CATALINA6.jpg"],
+        "price":500,
+        "city":"Buenaventura"
+    },
+    {
+        "id":8,
+        "name":"Hotel GALEON",
+        "lat":3.8335855545677413, 
+        "lon":-77.18503665397512,
+        "address":"Costa Pacífica",
+        "description":"Está ubicado a 100 metros de la playa con una vista espectacular, desde el restaurante podrás relajarte mirando a el mar. Contamos con habitaciones cómodas de parejas cuádruples sextuples y de 8 personas con pisos de cerámica . contamos con habitaciones confortables todas cuentan con televisor baño privado y ventilador y aire acondicionado la comida es excelente.y lo mejor un excelente servicio por parte de sus empleados. En el restaurante ademas de los platos incluidos en el plan ,también se pueden preparar otros platos típicos de la región con costos adicionales que podrá pagar en efectivo por la diferencia.",
+        "images":["https://hotelesdelpacifico.com/wp-content/uploads/2016/02/HOTEL-ALFA-CATALINA6.jpg"],
+        "price":500,
+        "city":"Buenaventura"
+    },
+    {
+        "id":9,
+        "name":"Hotel Aleluya",
+        "lat":3.8335855545677413, 
+        "lon":-77.18503665397512,
+        "address":"Costa Pacífica",
+        "description":"Está ubicado a 100 metros de la playa con una vista espectacular, desde el restaurante podrás relajarte mirando a el mar. Contamos con habitaciones cómodas de parejas cuádruples sextuples y de 8 personas con pisos de cerámica . contamos con habitaciones confortables todas cuentan con televisor baño privado y ventilador y aire acondicionado la comida es excelente.y lo mejor un excelente servicio por parte de sus empleados. En el restaurante ademas de los platos incluidos en el plan ,también se pueden preparar otros platos típicos de la región con costos adicionales que podrá pagar en efectivo por la diferencia.",
+        "images":["https://hotelesdelpacifico.com/wp-content/uploads/2016/02/HOTEL-ALFA-CATALINA6.jpg"],
+        "price":500,
+        "city":"Buenaventura"
     }
 ]
